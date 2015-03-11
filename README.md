@@ -2,11 +2,11 @@
 GUI Wrapper for Microsoft's netsh in Windows 7/8.x
 
 ### To Do list
-~~ - Create PowerShell driven .Net form ~~
-- Display list of networks in list box or similar
-- Have easy to use buttons for different commands
-- Capture command output.
-- Add textbox and button driven commands for networks.
+- [x] Create PowerShell driven .Net form
+- [ ] Display list of networks in list box or similar
+- [ ] Have easy to use buttons for different commands
+- [ ] Capture command output.
+- [ ] Add textbox and button driven commands for networks.
 
 ### Web references
 [Microsoft Manage Wireless networks](http://windows.microsoft.com/en-CA/windows-8/manage-wireless-network-profiles)
