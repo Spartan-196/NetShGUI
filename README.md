@@ -2,7 +2,7 @@
 GUI Wrapper for Microsoft's netsh in Windows 7/8.x
 
 ### To Do list
-- [x] Create PowerShell driven .Net form
+- [x] Create PowerShell driven Windows form
 - [ ] Display list of networks in list box or similar
 - [ ] Have easy to use buttons for different commands
 - [ ] Capture command output.
